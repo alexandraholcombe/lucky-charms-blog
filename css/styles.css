@@ -1,0 +1,13 @@
+body {
+  background-color:green;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.banner {
+  margin:0 auto;
+}
+
+.banner img {
+  height:316px;
+}
